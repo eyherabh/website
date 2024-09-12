@@ -8,7 +8,7 @@ weight: 40
 
 <!-- overview -->
 
-This page provides an overview of best practices when it comes to enforcing
+This page provides an overview of best practices when enforcing
 [Pod Security Standards](/docs/concepts/security/pod-security-standards).
 
 <!-- body -->
